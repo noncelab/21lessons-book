@@ -1,6 +1,6 @@
 # 21 Lessons
 
-이 저장소에는 *스물 한가지 교훈 - 내가 비트코인 토끼 굴ㅔ 빠지면서 배운 교훈들* 인쇄버전의 Latex 소스코드가
+이 저장소에는 *스물 한가지 교훈 - 내가 비트코인 토끼 굴에 빠지면서 배운 교훈들* 인쇄버전의 Latex 소스코드가
 포함되어 있습니다.
 
 ![](https://21lessons.com/assets/images/21-lessons-book.png)
@@ -26,11 +26,8 @@
 
 ## 전자책
 
-The [ebook branch](https://github.com/dergigi/21lessons-book/tree/ebook) holds a
-slightly modified version of the source code suitable for building the eBook
-versions of the book.
-이 [전자책](https://github.com/dergigi/21lessons-book/tree/ebook)는 전자책에 맞게
-약간 수정이 있습니다.
+[전자책](https://github.com/dergigi/21lessons-book/tree/ebook) 버전은 전자책으로 적합하게
+약간 수정되었습니다.
 
 ## 온라인 버전
 
@@ -58,15 +55,13 @@ Guy Swann이 읽어주는 오디오 버전과 함께 무료로 이용할 수 있
 * French
 * Korean
 
-The German print version of the book has a [separate
-repository](https://github.com/21-lessons/21-lessons-book-de), maintained by the
-author.
+독일어 버전은 [다른 저장소](https://github.com/21-lessons/21-lessons-book-de)에 있고 저자가 직접 관리합니다.
 
 ## 라이선스
 
-이 저작물은 Creative Commons Attribution-ShareAlike 4.0 라이선스로 보호됩니다.
-International License. To view a copy of this license, visit
-http://creativecommons.org/licenses/by-sa/4.0/.
+이 저작물은 Creative Commons Attribution-ShareAlike 4.0 국제 라이선스로 보호됩니다.
+이 라이선스의 복사본을 보고 싶다면,
+http://creativecommons.org/licenses/by-sa/4.0/ 에 방문하세요.
 
 ---
 
