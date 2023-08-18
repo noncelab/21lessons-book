@@ -66,6 +66,7 @@ http://creativecommons.org/licenses/by-sa/4.0/ 에 방문하세요.
 ---
 
 Created with 🧡 by [Gigi](https://dergigi.com/support/).
+
 [![tippin.me](https://badgen.net/badge/%E2%9A%A1%EF%B8%8Ftippin.me/@dergigi/F0918E)](https://tippin.me/@dergigi)
 
-한국어 번역 [Pow](https://https://powbitcoiner.com/)
+한국어 번역은 [대한민국 No.1 비트코인 커뮤니티 PoW](https://https://powbitcoiner.com/) 팀에서 제작하였습니다.
