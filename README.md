@@ -1,51 +1,48 @@
 # 21 Lessons
 
-This repository contains the LaTeX source code for the print version of *21
-Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole*.
+이 저장소에는 *스물 한가지 교훈 - 내가 비트코인 토끼 굴ㅔ 빠지면서 배운 교훈들* 인쇄버전의 Latex 소스코드가
+포함되어 있습니다.
 
 ![](https://21lessons.com/assets/images/21-lessons-book.png)
 
-## About This Book
+## 이 책에 대하여
 
-This is a bit of an unusual book. But hey, Bitcoin is a bit of an unusual
-technology, so an unusual book about Bitcoin might be fitting. This book came to
-be because of one simple question: *What have you learned from Bitcoin?* I tried
-to answer this question in a single tweet. Then the tweet turned into a
-tweetstorm. The tweetstorm turned into an article. The article turned into three
-articles. Three articles turned into 21 Lessons. And 21 Lessons turned into this
-book.
+이 책은 조금은 특이한 책입니다. 하지만 비트코인은 원래 특이한 기술이기 때문에 이 책은 특이할 수 밖에 없습니다.
+이 책은 *비트코인으로부터 배운 것이 뭐야?* 라는 간단한 질문으로부터 시작되었습니다.
+나는 트윗을 통해 이 질문에 대답하기 위해 노력했지만 할 수 없었습니다. 나의 대답은 트윗 폭풍이 되었습니다.
+트윗 폭풍을 이 책으로 엮었습니다. 이 책은 3개의 파트로 나뉘어져 있고 총 21개의 교훈이 담겨있습니다.
 
-## Issues, Errors, Comments, Contributions
+## 이슈, 오류, 첨언, 기여
 
-If you find an error, a dead link, or any other issue, please create an issue on
-GitHub or [contact me](https://dergigi.com/contact). Feel free to resolve the
-issue directly, if you can, by creating a pull request.
+만약 책에 깨진 링크가 있거나 다른 이슈가 있다면 GitHub나 [contact me](https://dergigi.com/contact)
+를 통해 알려주시기 바랍니다. 문제를 직접 수정하고 샆다면 pull request를 통해 직접 수정해도 괜찮습니다.
 
-## Print Version
 
-Version [0.3.11](https://github.com/dergigi/21lessons-book/releases/tag/0.3.11)
-marks the first edition of the book, released on December 24, 2019. It is
-available on [Amazon](https://amzn.to/2VXmQgp).
+## 인쇄판
 
-## eBook Versions
+인쇄판 버전 [0.3.11](https://github.com/dergigi/21lessons-book/releases/tag/0.3.11)은
+이 책의 최초 버전이며, 2019년 12월 24일에 공개 되었습니다. 
+[아마존](https://amzn.to/2VXmQgp)에서 구매가 가능합니다.
+
+## 전자책
 
 The [ebook branch](https://github.com/dergigi/21lessons-book/tree/ebook) holds a
 slightly modified version of the source code suitable for building the eBook
 versions of the book.
+이 [전자책](https://github.com/dergigi/21lessons-book/tree/ebook)는 전자책에 맞게
+약간 수정이 있습니다.
 
-## Online Version
+## 온라인 버전
 
-The [online version](https://github.com/21-lessons/21-lessons.github.io) of this
-book is freely available on [21lessons.com](https://21lessons.com), including an
-audio version read by Guy Swann from the Cryptoconomy podcast. While the online
-version is pretty much the same as the print version, there is some additional
-content in the print version: a foreword by Hass McCook, and a quick
-introductory section about the book (and about the author).
+[온라인 버전](https://github.com/21-lessons/21-lessons.github.io)의 책은 [21lessons.com](https://21lessons.com)에서
+Guy Swann이 읽어주는 오디오 버전과 함께 무료로 이용할 수 있습니다. 
+온라인 버전은 인쇄판과 거의 동일하지만, Hass McCook의 서문과 책(과 저자에 대한)소개 섹션과 같은
+몇 가지 추가 콘텐츠가 있습니다.
 
-## Translations
+## 번역
 
-Thanks to the awesome members of the Bitcoin community the book was [translated
-to various languages](https://21lessons.com/translations), including:
+[여러 언어로 번역된](https://21lessons.com/translations) 버전을 제작하는 데 기여해주신 비트코인
+커뮤니티의 놀라운 멤버들에게 감사합니다.
 
 * Spanish
 * Turkish
@@ -59,14 +56,15 @@ to various languages](https://21lessons.com/translations), including:
 * Indonesian
 * Italian
 * French
+* Korean
 
 The German print version of the book has a [separate
 repository](https://github.com/21-lessons/21-lessons-book-de), maintained by the
 author.
 
-## License
+## 라이선스
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+이 저작물은 Creative Commons Attribution-ShareAlike 4.0 라이선스로 보호됩니다.
 International License. To view a copy of this license, visit
 http://creativecommons.org/licenses/by-sa/4.0/.
 
