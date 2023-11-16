@@ -52,9 +52,11 @@ Guy Swann이 읽어주는 오디오 버전과 함께 무료로 이용할 수 있
 - Indonesian
 - Italian
 - French
-- Korean
+- 한국어
 
 독일어 버전은 [다른 저장소](https://github.com/21-lessons/21-lessons-book-de)에 있고 저자가 직접 관리합니다.
+
+한국어 버전은 [🇰🇷 비트코인 온리 커뮤니티 포우 POW](https://powbitcoiner.com/)가 관리합니다.
 
 ## 라이선스
 
@@ -67,5 +69,3 @@ http://creativecommons.org/licenses/by-sa/4.0/ 에 방문하세요.
 Created with 🧡 by [Gigi](https://dergigi.com/support/).
 
 [![tippin.me](https://badgen.net/badge/%E2%9A%A1%EF%B8%8Ftippin.me/@dergigi/F0918E)](https://tippin.me/@dergigi)
-
-한국어 번역은 [대한민국 No.1 비트코인 커뮤니티 포우 POW](https://https://powbitcoiner.com/) 팀에서 제작하였습니다.
